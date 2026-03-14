@@ -137,22 +137,3 @@ GEMINI_API_KEY=your-gemini-key          # optional
 VITE_GEMINI_API_KEY=your-gemini-key     # same key, exposed to frontend
 APP_URL=http://localhost:3000
 ```
-
----
-
-## What Changed vs Original
-
-| Area | Before | After |
-|---|---|---|
-| Sidebar buttons | Dead (no onClick/to) | All navigate to live views |
-| Command input | Wired but no global room | Fully working, 8 commands |
-| Event stream | Loaded but replay broken | Live + searchable + replay |
-| Agents | Static UI only | 3 live agents with AI + ticks |
-| System Health | Static hardcoded nodes | Live latency simulation |
-| Personnel | Not implemented | Live from `users` table |
-| Incidents | Not implemented | Full tracker, linked to rooms |
-| Topology | Hardcoded values | Live drift + spike simulation |
-| Network Activity | Random animation | Real latency data |
-| Gemini | Import but broken | Working with graceful fallback |
-| Auth session | Not restored on reload | Restored via `getSession()` |
-| Rooms | Only fetched | Dynamically created by agents |
