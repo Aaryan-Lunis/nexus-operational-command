@@ -75,7 +75,7 @@ After approval, the user becomes an authenticated operator in the platform.
 ![Login](images/login_page.png)
 
 ### Global Operational Stream
-![Dashboard](images/global-stream_page.png)
+![Dashboard](images/global-stream.png)
 
 ### System Health Monitoring
 ![System Health](images/system-health.png)
