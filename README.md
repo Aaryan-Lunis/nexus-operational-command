@@ -69,6 +69,23 @@ Once submitted, the request is authenticated through **Supabase authentication**
 
 After approval, the user becomes an authenticated operator in the platform.
 
+# Screenshots
+
+### Login Interface
+![Login](images/login.png)
+
+### Global Operational Stream
+![Dashboard](images/dashboard.png)
+
+### System Health Monitoring
+![System Health](images/system-health.png)
+
+### Personnel Management
+![Personnel](images/personnel.png)
+
+### Operations Timeline
+![Ops Timeline](images/ops-timeline.png)
+
 ---
 
 # System Overview
