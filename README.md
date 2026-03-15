@@ -72,7 +72,7 @@ After approval, the user becomes an authenticated operator in the platform.
 # Screenshots
 
 ### Login Interface
-![Login](images/login.png)
+![Login](images/login_page.png)
 
 ### Global Operational Stream
 ![Dashboard](images/dashboard.png)
