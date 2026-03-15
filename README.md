@@ -75,16 +75,16 @@ After approval, the user becomes an authenticated operator in the platform.
 ![Login](images/login_page.png)
 
 ### Global Operational Stream
-![Dashboard](images/dashboard.png)
+![Dashboard](images/global-stream_page)
 
 ### System Health Monitoring
 ![System Health](images/system-health.png)
 
 ### Personnel Management
-![Personnel](images/personnel.png)
+![Personnel](images/personnel_page.png)
 
 ### Operations Timeline
-![Ops Timeline](images/ops-timeline.png)
+![Ops Timeline](images/Ops-Timeline_page.png)
 
 ---
 
